@@ -1,62 +1,64 @@
 const highlights = [
   {
-    title: "Offline & Private",
+    title: "Works Offline & Stays Private",
     desc: (
       <>
-        Works with GST Offline Tool compatible files.
+        SmartBilling works even without internet.
         Your data is <strong>not shared with anyone</strong> and
-        stays completely in your control.
+        stays completely under your control.
       </>
     ),
     icon: "🔒",
   },
   {
-    title: "Data in Your Hands",
+    title: "Your Data, Your Control",
     desc: (
       <>
-        Your business data remains <strong>safe and local</strong>.
-        No forced cloud dependency. No third-party access.
+        Your business data stays <strong>on your device</strong>.
+        No forced cloud storage. No third-party access.
       </>
     ),
     icon: "💾",
   },
   {
-    title: "Easy for Everyone",
+    title: "Easy for Business Owners",
     desc: (
       <>
-        Designed for business owners.
-        <strong> No accounting background</strong> required.
-        No dependency on CA / CS / accountant.
+        Made for everyday business use.
+        <strong> No accounting knowledge</strong> needed
+        to manage billing, GST, and reports.
       </>
     ),
     icon: "🤝",
   },
   {
-    title: "Ease of Operation",
+    title: "Simple to Use Daily",
     desc: (
       <>
-        Simple screens, guided workflows and
-        minimal learning curve for daily use.
+        Clean screens and guided steps make
+        daily billing and tracking easy from day one.
       </>
     ),
     icon: "⚡",
   },
   {
-    title: "Compliance-Ready",
+    title: "Ready When Compliance Is Needed",
     desc: (
       <>
-        Generate filing-ready reports and JSON files
-        compatible with official GST Offline Tools.
+        Prepare GST reports and required files
+        using your regular business data,
+        without extra work.
       </>
     ),
     icon: "📑",
   },
   {
-    title: "Business-First Design",
+    title: "Designed Around Real Businesses",
     desc: (
       <>
-        Focused on real business needs — billing,
-        compliance, reports and control.
+        Built for billing, compliance, reports,
+        and control — the things businesses
+        actually care about.
       </>
     ),
     icon: "🏢",
@@ -71,11 +73,11 @@ export default function TrustHighlights() {
         {/* Section intro */}
         <div className="mb-14 text-center">
           <h2 className="text-3xl font-bold tracking-tight text-slate-900">
-            Simple. Secure. Self-Sufficient.
+            Simple. Safe. In Your Control.
           </h2>
           <p className="mt-3 text-slate-600 max-w-2xl mx-auto">
-            Built for Indian businesses that want full control
-            without compromising on compliance or clarity.
+            Built for Indian businesses that want clarity,
+            confidence, and control — without complexity.
           </p>
         </div>
 
