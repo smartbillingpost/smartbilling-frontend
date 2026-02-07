@@ -8,12 +8,12 @@ export default function Home() {
     <>
       <Helmet>
         <title>
-          SmartBilling – Simple offline Billing and GST App for Small Businesses
+SmartBilling – Offline GST Billing & Invoicing App for Small Businesses in India
         </title>
 
         <meta
           name="description"
-          content="SmartBilling is an offline simple billing and GST app for retail shops, distributors, and small businesses in India. Manage billing, expenses, GST, and business reports easily."
+          content="SmartBilling is simple offline simple billing and GST app for Indian retail shops, distributors, and small businesses in India. Manage billing, expenses, GST, and business reports easily."
         />
 
         <meta
