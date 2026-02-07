@@ -45,8 +45,8 @@ const highlights = [
     title: "Ready When Compliance Is Needed",
     desc: (
       <>
-        Prepare GST reports and required files
-        using your regular business data,
+        Prepare GST reports and upload required 
+        files using your regular business data,
         without extra work.
       </>
     ),
