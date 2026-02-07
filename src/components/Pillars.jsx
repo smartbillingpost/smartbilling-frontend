@@ -1,27 +1,27 @@
-const pillars = [
-  {
-    title: "Billing & Invoicing",
-    desc: "GST-aware pricing, discounts, professional invoices, WhatsApp sharing.",
-    icon: "🧾",
-  },
-  {
-    title: "GST Compliance",
-    desc: "GSTR-1, GSTR-1A, GSTR-3B, HSN summaries, export-ready reports.",
-    icon: "📊",
-  },
-  {
-    title: "GSTR-2B Reconciliation",
-    desc: "Clear identification of matched, mismatched and missing ITC.",
-    icon: "🔍",
-  },
-  {
-    title: "Business Intelligence",
-    desc: "Sales, profit, stock valuation and actionable insights.",
-    icon: "📈",
-  },
-];
-
 export default function Pillars() {
+  const pillars = [
+    {
+      title: "Easy Billing",
+      desc: "Make clean, professional bills with GST and discounts, and share them instantly on WhatsApp.",
+      icon: "🧾",
+    },
+    {
+      title: "GST Made Simple",
+      desc: "Your regular billing data helps prepare GST returns and required reports — no extra work.",
+      icon: "📊",
+    },
+    {
+      title: "Clear Tax Credit View",
+      desc: "See which GST credits are available and which need attention, in a simple and clear way.",
+      icon: "🔍",
+    },
+    {
+      title: "Know Your Business",
+      desc: "See sales, expenses, profit, and stock value so you understand how your business is really doing.",
+      icon: "📈",
+    },
+  ];
+
   return (
     <section className="bg-white">
       <div className="mx-auto max-w-7xl px-6 py-20">
@@ -29,11 +29,11 @@ export default function Pillars() {
         {/* Section heading */}
         <div className="mb-14 text-center">
           <h2 className="text-3xl font-bold tracking-tight text-slate-900">
-            One Platform. Complete Control.
+            Everything your business needs, in one place
           </h2>
           <p className="mt-3 text-slate-600">
-            Everything you need to run billing, GST and business reporting —
-            without juggling multiple tools.
+            From daily billing to GST and business understanding —
+            SmartBilling keeps things simple and connected.
           </p>
         </div>
 
