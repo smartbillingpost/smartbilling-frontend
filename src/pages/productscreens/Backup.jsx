@@ -98,7 +98,7 @@ export default function Backup() {
                 ✔ Simple & Reliable
               </h3>
               <p className="mt-1 text-slate-600">
-                No technical expertise required — backup and restore with ease.
+                No technical expertise required — You can backup and restore with ease.
               </p>
             </div>
           </div>
