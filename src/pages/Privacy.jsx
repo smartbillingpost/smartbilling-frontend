@@ -19,7 +19,7 @@ export default function Privacy() {
             Our Commitment to Privacy
           </h2>
           <p className="mt-3 text-gray-600 leading-relaxed">
-            SmartBilling is committed to protecting your personal and business
+            SnapBilling is committed to protecting your personal and business
             data. We collect and use information only to provide and improve our
             services.
           </p>
@@ -59,7 +59,7 @@ export default function Privacy() {
           </h2>
           <p className="mt-3 text-blue-900">
             You remain the owner of your data. You can export, back up, or
-            migrate your information at any time using SmartBilling features.
+            migrate your information at any time using SnapBilling features.
           </p>
         </section>
 

@@ -75,12 +75,12 @@ const modules = [
 {
   title: "Easy Data Import & Adaptability",
   desc:
-    "Start using SmartBilling without breaking your existing business records.",
+    "Start using SnapBilling without breaking your existing business records.",
   benefits: [
     "One-click data import",
     "Supports existing data in any format",
     "No business disruption",
-    "Instant access to all SmartBilling features",
+    "Instant access to all SnapBilling features",
   ],
   link: "/product/import",
 },
@@ -111,7 +111,7 @@ const modules = [
 {
   title: "Help, Documentation & Support",
   desc:
-    "Comprehensive guidance and responsive support to help you use SmartBilling confidently.",
+    "Comprehensive guidance and responsive support to help you use SnapBilling confidently.",
   benefits: [
     "Detailed in-app help files",
     "Step-by-step usage guidance",
@@ -129,7 +129,7 @@ export default function Product() {
       {/* Intro */}
       <section className="text-center max-w-3xl mx-auto">
         <h1 className="text-4xl font-bold text-dark mb-4">
-          SmartBilling – Complete Business Platform
+          SnapBilling – Complete Business Platform
         </h1>
         <p className="text-slate-600 text-lg">
           Built for Indian businesses to manage billing, GST, reconciliation

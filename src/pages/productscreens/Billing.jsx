@@ -45,7 +45,7 @@ export default function Billing() {
             Built for Real-World Billing
           </h2>
           <p className="mt-3 text-indigo-900 leading-relaxed">
-            SmartBilling focuses on speed, accuracy, and compliance —
+            SnapBilling focuses on speed, accuracy, and compliance —
             so you can bill confidently without worrying about GST
             calculations or formatting errors.
           </p>

@@ -11,7 +11,7 @@ export default function Contact() {
             Contact Us
           </h1>
           <p className="mt-3 text-lg text-slate-600">
-            We’re here to help you with SmartBilling.
+            We’re here to help you with SnapBilling.
           </p>
         </div>
 
@@ -39,17 +39,17 @@ export default function Contact() {
             <li>
               <strong>Email Support:</strong>{" "}
               <a
-                href="mailto:smartbillingpost@gmail.com"
+                href="mailto:snapbillingpost@gmail.com"
                 className="text-indigo-600 hover:underline"
               >
-                smartbillingpost@gmail.com
+                snapbillingpost@gmail.com
               </a>
               ,{" "}
               <a
-                href="mailto:smartbilling365@gmail.com"
+                href="mailto:snapbilling365@gmail.com"
                 className="text-indigo-600 hover:underline"
               >
-                smartbilling365@gmail.com
+                snapbilling365@gmail.com
               </a>
             </li>
 
@@ -72,7 +72,7 @@ export default function Contact() {
 
             <li>
               <strong>In-App Help:</strong> Access contextual help directly
-              inside SmartBilling.
+              inside SnapBilling.
             </li>
 
             <li>

@@ -12,7 +12,7 @@ export default function GetStarted() {
         {/* Header */}
         <div className="mx-auto max-w-3xl text-center">
           <h1 className="text-3xl md:text-4xl font-bold tracking-tight text-slate-900">
-            Welcome to SmartBilling 👋
+            Welcome to SnapBilling 👋
           </h1>
           <p className="mt-4 text-lg text-slate-600">
             You’re just one step away from simplified billing,
@@ -24,7 +24,7 @@ export default function GetStarted() {
         <section className="mt-14 grid gap-8 md:grid-cols-3">
           <Step
             title="Personal Demo"
-            desc="Our business manager will walk you through SmartBilling
+            desc="Our business manager will walk you through SnapBilling
                   and show how it fits your business."
           />
           <Step

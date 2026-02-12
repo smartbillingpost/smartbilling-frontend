@@ -12,7 +12,7 @@ export default function Help() {
           </h1>
           <p className="mt-3 text-lg text-slate-600">
             Comprehensive guidance and responsive support to help you use
-            SmartBilling confidently.
+            SnapBilling confidently.
           </p>
         </div>
 
@@ -22,7 +22,7 @@ export default function Help() {
             Support Designed for Everyone
           </h2>
           <p className="mt-4 text-slate-600 leading-relaxed">
-            SmartBilling is built for business owners, accountants, and
+            SnapBilling is built for business owners, accountants, and
             non-technical users. Clear guidance and timely support ensure that
             you can focus on your business without worrying about software
             complexity.
@@ -89,7 +89,7 @@ export default function Help() {
                 ✔ Confidence in Usage
               </h3>
               <p className="mt-1 text-slate-600">
-                Use SmartBilling effectively, even for complex GST workflows.
+                Use SnapBilling effectively, even for complex GST workflows.
               </p>
             </div>
 
@@ -119,7 +119,7 @@ export default function Help() {
         {/* Contact Support */}
         <section className="mt-12 rounded-2xl border border-slate-200 bg-white p-8">
           <h2 className="text-xl font-semibold text-slate-900">
-            Contact SmartBilling Support
+            Contact SnapBilling Support
           </h2>
 
           <p className="mt-3 text-slate-600">
@@ -131,17 +131,17 @@ export default function Help() {
             <p>
               📧 <strong>Email:</strong>{" "}
               <a
-                href="mailto:smartbillingpost@gmail.com"
+                href="mailto:snapbillingpost@gmail.com"
                 className="text-indigo-600 hover:underline"
               >
-                smartbillingpost@gmail.com
+                snapbillingpost@gmail.com
               </a>
               ,{" "}
               <a
-                href="mailto:smartbilling365@gmail.com"
+                href="mailto:snapbilling365@gmail.com"
                 className="text-indigo-600 hover:underline"
               >
-                smartbilling365@gmail.com
+                snapbilling365@gmail.com
               </a>
             </p>
 

@@ -23,7 +23,7 @@ export default function Exports() {
           </h2>
           <p className="mt-4 text-slate-600 leading-relaxed">
             Regulatory compliance requires accurate reports, standard formats,
-            and timely submissions. SmartBilling ensures your data is always
+            and timely submissions. SnapBilling ensures your data is always
             ready for GST filings, audits, banking requirements, and E-Way Bill
             generation.
           </p>

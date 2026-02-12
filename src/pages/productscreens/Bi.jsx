@@ -27,7 +27,7 @@ export default function Bi() {
             insights, this data remains unused.
           </p>
           <p className="mt-3 text-slate-600 leading-relaxed">
-            SmartBilling’s Business Intelligence converts your daily
+            SnapBilling’s Business Intelligence converts your daily
             transactions into meaningful insights that help you understand
             what’s working and where to improve.
           </p>
@@ -110,7 +110,7 @@ export default function Bi() {
             Built for Actionable Insights
           </h2>
           <p className="mt-3 text-indigo-900 leading-relaxed">
-            SmartBilling’s BI reports are designed to evolve into interactive
+            SnapBilling’s BI reports are designed to evolve into interactive
             dashboards, exportable reports, and deep analytical views as your
             business grows.
           </p>

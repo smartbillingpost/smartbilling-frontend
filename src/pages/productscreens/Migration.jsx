@@ -11,7 +11,7 @@ export default function Migration() {
             Easy Data Import & Adaptability
           </h1>
           <p className="mt-3 text-lg text-slate-600">
-            Start using SmartBilling without breaking your existing business
+            Start using SnapBilling without breaking your existing business
             records.
           </p>
         </div>
@@ -19,16 +19,16 @@ export default function Migration() {
         {/* Introduction */}
         <section className="mt-12 rounded-2xl border border-slate-200 bg-white p-8">
           <h2 className="text-xl font-semibold text-slate-900">
-            Seamless Transition to SmartBilling
+            Seamless Transition to SnapBilling
           </h2>
           <p className="mt-4 text-slate-600 leading-relaxed">
             Switching to a new billing system should never disrupt your
-            business. SmartBilling is designed to adapt to your existing data,
+            business. SnapBilling is designed to adapt to your existing data,
             workflows, and formats, so you can get started instantly.
           </p>
           <p className="mt-3 text-slate-600 leading-relaxed">
             Whether your data comes from Excel, another billing software, or
-            custom formats, SmartBilling ensures a smooth and safe migration.
+            custom formats, SnapBilling ensures a smooth and safe migration.
           </p>
         </section>
 
@@ -110,7 +110,7 @@ export default function Migration() {
           </h2>
           <ul className="mt-4 space-y-2 text-indigo-900">
             <li>• Prepare your existing data (Excel / CSV / exports)</li>
-            <li>• Use SmartBilling’s import tools to load your data</li>
+            <li>• Use SnapBilling’s import tools to load your data</li>
             <li>• Verify imported records and start billing immediately</li>
           </ul>
         </section>

@@ -48,14 +48,14 @@ export default function Gstr2brecon() {
           </ul>
         </section>
 
-        {/* How SmartBilling helps */}
+        {/* How SnapBilling helps */}
         <section className="mt-10 rounded-2xl border border-slate-200 bg-white p-8">
           <h2 className="text-xl font-semibold text-slate-900">
-            How SmartBilling Helps You
+            How SnapBilling Helps You
           </h2>
 
           <p className="mt-4 text-slate-600">
-            SmartBilling automatically reconciles your purchase data with
+            SnapBilling automatically reconciles your purchase data with
             GSTR-2B and classifies invoices into clear, actionable categories:
           </p>
 

@@ -27,7 +27,7 @@ export default function Backup() {
             accidental deletion, or system changes.
           </p>
           <p className="mt-3 text-slate-600 leading-relaxed">
-            SmartBilling ensures your data remains protected and transferable,
+            SnapBilling ensures your data remains protected and transferable,
             giving you complete control and peace of mind.
           </p>
         </section>
